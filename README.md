@@ -80,7 +80,7 @@ The webpage should look like this.
 <img src="https://i.imgur.com/MvxduS9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and install PHP Manager for IIS
+Download and install PHP Manager for IIS.
 </p>
 <br />
 
@@ -88,7 +88,7 @@ Download and install PHP Manager for IIS
 <img src="https://i.imgur.com/M46Dnai.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install the Rewrite Module.
 </p>
 <br />
 
@@ -96,7 +96,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/TjAe57R.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a folder on the C drive and name it PHP. Next, download and extract PHP 7.3.8 and unzip the content into the PHP folder.
 </p>
 <br />
 
