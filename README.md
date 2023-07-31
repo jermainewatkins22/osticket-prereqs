@@ -204,7 +204,7 @@ Next, create a new session in Heidi. Right-click create new->database-> and name
 <img src="https://i.imgur.com/SDaSM6R.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTicket will open in your browser. Fill in the information in the boxes.
 </p>
 <br />
 
