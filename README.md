@@ -187,7 +187,7 @@ Next, we need to assign permissions for ost-config.php. First, open properties->
 <img src="https://i.imgur.com/OsSt6MT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install Heidi SQL
 </p>
 <br />
 
