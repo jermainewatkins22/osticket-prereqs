@@ -71,7 +71,8 @@ Turn Windows feat.on or off-> Internet Information Services(IIS)-> World Wide We
 <img src="https://i.imgur.com/0boBWyx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+CGI allows you to host a webpage on youe own Network. Test this by typing 127.0.0.1 in your google search barin your VM.
+The webpage should look like this.
 </p>
 <br />
 
