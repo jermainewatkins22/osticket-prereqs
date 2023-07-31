@@ -152,7 +152,7 @@ Open osTicket-> upload. Extract the upload file into C:->Inetpub-> wwwroot. Rema
 <img src="https://i.imgur.com/j1ltoGO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Inside IIS->sites->default Web Services->osTicket->*80 to open osTicket in your browser.
 </p>
 <br />
 
