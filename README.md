@@ -27,7 +27,7 @@ This step by step tutorial outlines the prerequisites and installation of the op
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/11R5yIS.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DldZULc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a Virtual Machine(VM) in Azure using Windows 10.
